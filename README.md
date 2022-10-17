@@ -67,3 +67,8 @@ data) and report the classification accuracy on the other two datasets. Comment 
 the approach
 
   12. Identify appropriate literature to comment on your findings and methodology.
+
+Install packages
+```
+pip install -r requirements.txt
+```
