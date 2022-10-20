@@ -1,6 +1,6 @@
 pandas
 numpy
-textblob
 nltk
 scipy
 matplotlib
+scikit-learn
