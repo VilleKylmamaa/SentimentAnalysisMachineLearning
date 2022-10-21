@@ -1,1 +1,2 @@
-{"price": ["cheap", "expensive", "affordable"], "quality": ["quality","excellent"], "quantity": ["huge","little","lots"], "location":["close","far","downtown"]}
+{"price": ["cheap", "expensive", "affordable"], "quality": ["quality","excellent"], "staff": ["friendly", "rude", "kind"]}
+ 
