@@ -1,2 +1,5 @@
-{"price": ["cheap", "expensive", "affordable"], "quality": ["quality","excellent"], "staff": ["friendly", "rude", "kind"]}
- 
+{
+    "price": ["cheap", "expensive", "affordable"],
+    "quality": ["quality","excellent"],
+    "staff": ["friendly", "rude", "kind"]
+}
