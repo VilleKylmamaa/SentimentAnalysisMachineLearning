@@ -4,3 +4,5 @@ nltk
 scipy
 matplotlib
 scikit-learn
+wordcloud
+empath
