@@ -26,17 +26,18 @@
         "flavorful",
         "yummy",
         "tasty",
-        "bitter",
-        "bland",
         "silky",
-        "disgusting",
-        "spoiled",
         "sweet",
         "bittersweet",
         "delicate",
         "savory",
         "spicy",
-        "dirty"
+
+        "bitter",
+        "disgusting",
+        "spoiled",
+        "dirty",
+        "bland"
     ],
 
     "staff": [
