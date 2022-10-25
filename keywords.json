@@ -11,7 +11,8 @@
         "fee",
         "cost",
         "expense",
-        "fare"
+        "fare",
+        "price"
     ],
 
     "quality": [
