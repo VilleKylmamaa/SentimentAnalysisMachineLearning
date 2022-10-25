@@ -15,18 +15,20 @@
 - `Python3`, tested with v3.10 (https://www.python.org/downloads/)
 - `pip`, tested with v22.3 (https://pypi.org/project/pip/).
 
-2. (Optional) Use virtual environment (https://docs.python.org/3/tutorial/venv.html):
+2. `SentiStrength.jar` must be added to the sentistrength folder. One can attain it from http://sentistrength.wlv.ac.uk/. This file is not included in this repository due to licensing (see the provided link).
+
+3. (Optional) Use virtual environment (https://docs.python.org/3/tutorial/venv.html):
 ```
 python3 -m venv venv
 venv\Scripts\activate.bat
 ```
 
-3. Install packages:
+4. Install packages:
 ```
 pip install -r requirements.txt
 ```
 
-4. Open and run:
+5. Open and run:
 ```
 Restaurant_Review_Analysis.ipynb
 ```
