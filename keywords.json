@@ -15,6 +15,19 @@
         "price"
     ],
 
+    "price_positive": [
+        "cheap",
+        "affordable",
+        "discount",
+        "worth",
+        "value",
+        "free"
+    ],
+
+    "price_negative": [
+        "expensive"
+    ],
+
     "quality": [
         "quality",
         "excellent",
@@ -33,6 +46,33 @@
         "savory",
         "spicy",
 
+        "bitter",
+        "disgusting",
+        "spoiled",
+        "dirty",
+        "bland"
+    ],
+
+    "quality_positive": [
+        "quality",
+        "excellent",
+        "amazing",
+        "mindblowing",
+        "mind-blowing",
+        "rich",
+        "flavourful",
+        "flavorful",
+        "yummy",
+        "tasty",
+        "silky",
+        "sweet",
+        "bittersweet",
+        "delicate",
+        "savory",
+        "spicy"
+    ],
+
+    "quality_negative": [
         "bitter",
         "disgusting",
         "spoiled",
@@ -70,6 +110,43 @@
         "humorous",
         "social",
 
+        "rude",
+        "intrusive",
+        "blunt",
+        "abusive",
+        "crude",
+        "ignorant",
+        "vulgar",
+        "uncivil",
+        "bad-mannered",
+        "cheeky",
+        "hateful"
+    ],
+
+    "staff_positive": [
+        "kind",
+        "friendly",
+        "pleasant",
+        "lovely",
+        "charitable",
+        "considerate",
+        "courteous",
+        "cordial",
+        "thoughtful",
+        "tolerant",
+        "gentle",
+        "compassionate",
+        "amiable",
+        "gracious",
+        "kindhearted",
+        "sympathetic",
+        "understanding",
+        "funny",
+        "humorous",
+        "social"
+    ],
+
+    "staff_negative": [
         "rude",
         "intrusive",
         "blunt",
