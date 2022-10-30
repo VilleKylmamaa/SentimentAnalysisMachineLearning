@@ -1,33 +1,39 @@
 {
     "price": [
-        "cheap",
-        "expensive",
-        "affordable",
-        "discount",
         "payment",
-        "worth",
-        "value",
-        "free",
         "fee",
         "cost",
         "expense",
         "fare",
         "price",
-        "overpriced"
+
+        "cheap",
+        "low priced",
+        "low cost",
+        "affordable",
+        "discount",
+        "good value",
+        "free",
+
+        "bad value",
+        "overpriced",
+        "expensive"
     ],
 
     "price_positive": [
         "cheap",
+        "low priced",
+        "low cost",
         "affordable",
         "discount",
-        "worth",
-        "value",
+        "good value",
         "free"
     ],
 
     "price_negative": [
         "expensive",
-        "overpriced"
+        "overpriced",
+        "bad value"
     ],
 
     "quality": [
@@ -36,6 +42,7 @@
         "amazing",
         "mindblowing",
         "mind-blowing",
+        "mind blowing",
         "rich",
         "flavourful",
         "flavorful",
@@ -46,7 +53,14 @@
         "bittersweet",
         "delicate",
         "savory",
+        "savoury",
         "spicy",
+        "splendid",
+        "first class",
+        "awesome",
+        "full bodied",
+        "delicious",
+
 
         "bitter",
         "disgusting",
@@ -54,7 +68,13 @@
         "dirty",
         "bland",
         "nasty",
-        "tasteless"
+        "tasteless",
+        "foul",
+        "yucky",
+        "revolt",
+        "spoilt",
+        "flavourless",
+        "savourless"
     ],
 
     "quality_positive": [
@@ -63,6 +83,7 @@
         "amazing",
         "mindblowing",
         "mind-blowing",
+        "mind blowing",
         "rich",
         "flavourful",
         "flavorful",
@@ -73,7 +94,13 @@
         "bittersweet",
         "delicate",
         "savory",
-        "spicy"
+        "savoury",
+        "spicy",
+        "splendid",
+        "first class",
+        "awesome",
+        "full bodied",
+        "delicious"
     ],
 
     "quality_negative": [
@@ -83,7 +110,13 @@
         "dirty",
         "bland",
         "nasty",
-        "tasteless"
+        "tasteless",
+        "foul",
+        "yucky",
+        "revolt",
+        "spoilt",
+        "flavourless",
+        "savourless"
     ],
 
     "staff": [
