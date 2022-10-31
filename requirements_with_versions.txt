@@ -1,0 +1,10 @@
+pandas==1.4.3
+numpy==1.23.1
+nltk==3.7
+scipy==1.9.0
+scikit-learn==1.1.2
+wordcloud==1.8.2.2
+empath==0.89
+sklearn==0.0
+tabulate==0.9.0
+matplotlib==3.6.1
