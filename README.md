@@ -25,6 +25,7 @@ venv\Scripts\activate.bat
 
 4. Install packages:
 ```
+#Use requirements_with_versions.txt if trouble with packages 
 pip install -r requirements.txt
 ```
 
