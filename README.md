@@ -23,9 +23,8 @@ python3 -m venv venv
 venv\Scripts\activate.bat
 ```
 
-4. Install packages:
+4. Install packages ( use requirements_with_versions.txt if having trouble with versions):
 ```
-#Use requirements_with_versions.txt if trouble with packages 
 pip install -r requirements.txt
 ```
 
