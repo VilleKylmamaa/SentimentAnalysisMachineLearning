@@ -1,6 +1,7 @@
 
 # GloVe pre-trained files are too big to be included in GitHub
 glove/*
+!glove/README.md
 
 # SentiStrength has a commercial licence for non-research work
 SentiStrength.jar
