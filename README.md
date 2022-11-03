@@ -15,20 +15,22 @@
 - `Python3`, tested with v3.10 (https://www.python.org/downloads/)
 - `pip`, tested with v22.3 (https://pypi.org/project/pip/).
 
-2. `SentiStrength.jar` must be added to the sentistrength folder. One can attain it from http://sentistrength.wlv.ac.uk/. This file is not included in this repository due to licensing (see the provided link).
+2. `SentiStrength.jar` must be added to the `./sentistrength` folder. One can attain it from http://sentistrength.wlv.ac.uk/. This file is not included in this repository due to licensing (see the provided link).
 
-3. (Optional) Use virtual environment (https://docs.python.org/3/tutorial/venv.html):
+3. `glove.6B.300d.txt`, or optionally other GloVe pre-trained vector files, must be added to the `./glove` folder. This and other GloVe pre-trained vector files can be downloaded from https://github.com/stanfordnlp/GloVe. Pick `Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 300d vectors, 822 MB download)` for running this project if you do not wish to make changes.
+
+4. (Optional) Use virtual environment (https://docs.python.org/3/tutorial/venv.html):
 ```
 python3 -m venv venv
 venv\Scripts\activate.bat
 ```
 
-4. Install packages ( use requirements_with_versions.txt if having trouble with versions):
+5. Install packages ( use requirements_with_versions.txt if having trouble with versions):
 ```
 pip install -r requirements.txt
 ```
 
-5. Open and run:
+6. Open and run:
 ```
 Restaurant_Review_Analysis.ipynb
 ```
