@@ -1,5 +1,5 @@
 
-# Project 10 Bis: Sentiment Analysis and Machine learning
+# Restaurant Reviews - Sentiment Analysis and Machine learning
 
 *Ville Kylmämaa, Joona Holappa, Miiro Kuosmanen, Anssi Valjakka*
 
